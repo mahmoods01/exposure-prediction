@@ -5,7 +5,7 @@ to malicious content within-session, as proposed in the paper
 _"Predicting Impending Exposure to Malicious Content from User 
 Behavior."_ Please note that this code requires you to provide your
 own data for training and testing, as the original data used in the
-paper remains confidential, to maintain the users' privacy.
+paper remains confidential, to protect the users' privacy.
 
 ## Description
 
